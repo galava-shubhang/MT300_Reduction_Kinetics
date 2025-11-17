@@ -33,14 +33,10 @@ plt.savefig('output_plot.png', dpi=300, bbox_inches='tight')
 
 ## Description of the models implemented
 Chemical reaction control:
-\[
-F = 1 - (1 - t/\tau)^3
-\]
+$$F = 1 - (1 - t/\tau)^3$$
 
 Diffusion control:
-\[
-F = 1 - 3(1 - t/\tau)^2 + 2(1 - t/\tau)^3
-\]
+$$F = 1 - 3(1 - t/\tau)^2 + 2(1 - t/\tau)^3$$
 
 ## Expected output
 - Interactive plot comparing the two mechanisms.
