@@ -40,7 +40,7 @@ $$F = 1 - 3(1 - t/\tau)^2 + 2(1 - t/\tau)^3$$
 
 ## Expected output
 - Interactive plot comparing the two mechanisms.
-- The repository includes `output_plot.png` as an example of the expected figure.
+- The repository includes `PLOT_F_VS_T.png` as an example of the expected figure.
 
 ## Authors
 - Anindith B. L. - 231MT008
